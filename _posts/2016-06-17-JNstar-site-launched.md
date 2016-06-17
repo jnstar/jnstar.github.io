@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JNstar, Horrible Cop, Launches Site"
+title: "Ethan Penx, Horrible Cop, Launches Site"
 date: 2014-04-30
 ---
 
